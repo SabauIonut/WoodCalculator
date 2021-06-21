@@ -1,0 +1,2 @@
+# WoodCalculator
+Lucrare de licenta.
